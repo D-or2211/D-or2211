@@ -53,16 +53,12 @@ const Demian = {
 </br></br></br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22rfif4ljowh2in7ssv3c42vi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-<img src="https://media.giphy.com/media/3o7bubY0AsNc5Bquha/giphy.gif" width="60"> <em><b>Ok... here is my spotify playlist too :) </em>
 
 <p align="center">
   <i>Search me!</i>
 
   <p align="center">
-    <a href="https://twitter.com/naimish860" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
-    <a href="https://www.linkedin.com/in/anitish/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-  <a href="https://www.facebook.com/naimish.awasthi.98" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
-  <a href="https://www.instagram.com/meenitish" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
+    <a href="https://www.linkedin.com/in/demian-orozco-9479b9252/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
     <a href="" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
     <a href="https://nitishawasthi.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
