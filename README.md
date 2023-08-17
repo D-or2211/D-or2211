@@ -4,8 +4,8 @@
    
 #### 👨‍💻 Things I am currently working on: 
 - Creating a microsoft community 
-- Building bots with Node js 
-- Creating websites with multiple technologies such as bootstrap and WordPres
+- RPA Development 
+- Data Science Field
 
 #### 🌴 Things I am challenging myself with:
 - Becoming a Python expert
@@ -19,10 +19,10 @@
 const Demian = {
   pronouns: "MVP",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, Progress 4gl, VB],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Django, Docker, Flask, Angular],
+  tools: [Django, Pandas, Node, JupyterNotebooks, PowerBI, Reflex, Docker, Flask, Angular],
   architecture: ["microservices", "event-driven", "design system pattern", "MVVM", "Directing Projects"],
   techCommunities: {
-                        coorganizer: "YoContigo.ti",
+                        coorganizer: "Sinergy Solutions",
                         mentor: "De La Salle Bajio"
                       },
  challenge: "Becoming Microsft MVP"
@@ -34,9 +34,9 @@ const Demian = {
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gnubash.svg" />&nbsp; 
+<img height="32" width="32" src="https://www.svgrepo.com/show/306534/pandas.svg" />&nbsp; 
+<img height="32" width="32" src="https://www.svgrepo.com/show/372833/django.svg" />&nbsp;
+<img height="32" width="32" src="https://www.svgrepo.com/svg/508915/flask" />&nbsp; 
 
 ### Database Systems
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
