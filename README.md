@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="https://bajio.delasalle.edu.mx/">De La Salle Bajio</a><img src="https://media.giphy.com/media/RktspoNWn8CtakZ1vo/giphy.gif" width="30">
    
 #### 👨‍💻 Things I am currently working on: 
-- Creating a microsoft community 
+- Become GitHub certified
 - RPA Development 
 - Data Science Field
 
@@ -12,6 +12,7 @@
 - Coding at least 4 hours a day
 - Becoming a Microsoft ambassador
 - Collecting experience for my CV
+- Expertise in Engineer Software Development
   
   ### <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="50"> In a language you can understand...  
 
@@ -29,21 +30,31 @@ const Demian = {
 }
 ```
 ### Programming Languages
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
-<img height="32" width="32" src="https://www.svgrepo.com/show/306534/pandas.svg" />&nbsp; 
-<img height="32" width="32" src="https://www.svgrepo.com/show/372833/django.svg" />&nbsp;
-<img height="32" width="32" src="https://www.svgrepo.com/svg/508915/flask" />&nbsp; 
+<img align="left" alt="JavaScript" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScrip" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/bootstrap/bootstrap-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="C#" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Swift" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/swift/swift-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/python/python-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="npm" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
+<br />
+<br />
 
-### Database Systems
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/couchdb.svg" />&nbsp;
-  
+
+### DataBases
+<img align="left" alt="SQLite" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/mongodb/mongodb-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C#" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Xcode" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/xcode/xcode-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="50xp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/figma/figma-original.svg" style="padding-right:10px;" />
+<br />
+<br />
+
+
 ### Some of the technologies I have worked with-</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
@@ -59,6 +70,4 @@ const Demian = {
 
   <p align="center">
     <a href="https://www.linkedin.com/in/demian-orozco-9479b9252/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-    <a href="" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
-    <a href="https://nitishawasthi.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
